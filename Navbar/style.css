@@ -1,0 +1,7 @@
+.ul {
+grid: auto-flow dense / 40px 40px 1fr;
+  }
+
+  .yoga {
+  display:flex;
+  }

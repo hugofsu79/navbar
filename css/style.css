@@ -1,0 +1,26 @@
+nav {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  box-shadow: 0px 4px 5px rgb(202, 192, 192);
+  
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 30px;
+}
+
+nav ul li a {
+  color: #FF9A17;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight:bold;
+}
